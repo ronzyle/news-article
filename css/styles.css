@@ -1,0 +1,10 @@
+h2.introduction {
+  color: blue;
+  font-style: italic;
+}
+h1.introduction {
+  color: red
+}
+.body {
+  background-color: lightgreen;
+}
